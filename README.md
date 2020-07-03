@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 After completing a double Master’s degree in [Multimedia Engineering](https://didattica.polito.it/laurea_magistrale/ingegneria_cinema/en/presentation), I couldn't resist the charm of the Web and joined [Toaster](http://toaster.co/) — a global digital agency. Across six years, I have worked in the London HQ and the Singapore office as Lead Web Developer. I've since worked on many high-profile projects from clients like [Google](https://about.google/) and the [Natural History Museum](https://www.nhm.ac.uk/). I successiviely joined [Automattic](https://automattic.com/) as a full-time JavaScrip engineer in the summer of 2020 to help to improve the WordPress.com platform.
 
