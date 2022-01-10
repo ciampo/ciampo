@@ -1,3 +1,4 @@
+<!--
 ### Howdy! 👋
 
 After completing a double Master’s degree in [Multimedia Engineering](https://didattica.polito.it/laurea_magistrale/ingegneria_cinema/en/presentation), I couldn't resist the charm of the Web and joined [Toaster](http://toaster.co/) — a global digital agency. Across six years, I have worked in the London HQ and the Singapore office as Lead Web Developer. I've since worked on many high-profile projects from clients like [Google](https://about.google/) and the [Natural History Museum](https://www.nhm.ac.uk/). I successiviely joined [Automattic](https://automattic.com/) as a full-time JavaScrip engineer in the summer of 2020 to help to improve the WordPress platform and move forward the Gutenberg project.
@@ -8,7 +9,6 @@ In my free time, I engage in DIY projects, play football and make electronic mus
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/marcociampini/), [Twitter](https://twitter.com/marco_ciampini) and on [Github](https://github.com/ciampo) (and if you search well enough, maybe on SoundCloud too). You can contact me at [marco.ciampo(at)gmail.com](mailto:marco.ciampo@gmail.com), and you can [get my CV here](https://assets.ctfassets.net/d8vs9e7rsv1n/YvRLjy09N1bebHthOd89z/04db854f407b585908ef5046af01f774/MarcoCiampini-CV.pdf).
 
-<!--
 **ciampo/ciampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
